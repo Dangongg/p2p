@@ -1,2 +1,2 @@
 - Click the book file
-- Top right , press download
+- In the new window, slightly above the center of the screen, go to the right and press **Raw**
