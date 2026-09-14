@@ -1,1 +1,2 @@
-# p2p
+- Click the book file
+- Top right , press download
